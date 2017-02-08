@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'bling-icons';
-  src:  url('fonts/bling-icons.eot?8dzums');
-  src:  url('fonts/bling-icons.eot?8dzums#iefix') format('embedded-opentype'),
-    url('fonts/bling-icons.ttf?8dzums') format('truetype'),
-    url('fonts/bling-icons.woff?8dzums') format('woff'),
-    url('fonts/bling-icons.svg?8dzums#bling-icons') format('svg');
+  src:  url('../fonts/bling-icons.eot?8dzums');
+  src:  url('../fonts/bling-icons.eot?8dzums#iefix') format('embedded-opentype'),
+    url('../fonts/bling-icons.ttf?8dzums') format('truetype'),
+    url('../fonts/bling-icons.woff?8dzums') format('woff'),
+    url('../fonts/bling-icons.svg?8dzums#bling-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
